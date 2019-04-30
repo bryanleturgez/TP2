@@ -52,8 +52,8 @@
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
+background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
+	background-image: -webkit-linear-gradient(left, #4c6ea5, #2fd8a0);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
@@ -77,8 +77,8 @@
 	border-radius: 18px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
 	box-shadow: 0px 0px 6px #000000;
-	background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
-	background-image: -webkit-linear-gradient(left, #d6e1ff, #dbffe7);
+background-image: -webkit-gradient(linear, left top, right top, from(#d6e1ff), to(#dbffe7));
+	background-image: -webkit-linear-gradient(left, #4c6ea5, #2fd8a0);
 	background-image: linear-gradient(left, #d6e1ff, #dbffe7);
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
